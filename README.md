@@ -55,5 +55,5 @@ To run this project locally, follow these steps:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/DoanVyVy/Ecommerce_web_ASP.NET.git
+   git clone https://github.com/HuuCac/Ecommerce_web_ASP.NET.git
    cd Ecommerce_web_ASP.NET
